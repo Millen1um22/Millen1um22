@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Millen1um22
+- 👀 I’m interested in FiveM scripts
+- 🌱 I’m currently learning lua, html, css, js
